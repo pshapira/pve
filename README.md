@@ -1,5 +1,5 @@
 # Code and Data Repository for 'Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents' [[preprint on arXiv]](https://arxiv.org/abs/2305.10383)
-## by [Sergio Pelaez](https://www.linkedin.com/in/sergio-pel%C3%A1ez-sierra-148690147/)*, [Gaurav Verma](https://gaurav22verma.github.io/)*, [Barbara Ribeiro](https://www.linkedin.com/in/drbarbararibeiro), [Philip Shapira](https://iac.gatech.edu/people/person/pshapira)<sup>1</sup>
+## by [Sergio Pelaez*](https://www.linkedin.com/in/sergio-pel%C3%A1ez-sierra-148690147/), [Gaurav Verma*](https://gaurav22verma.github.io/), [Barbara Ribeiro](https://www.linkedin.com/in/drbarbararibeiro), [Philip Shapira<sup>1</sup>](https://iac.gatech.edu/people/person/pshapira)
 ### * = Co-First authors; <sup>1</sup> Corresponding author: pshapira@manchester.ac.uk
 
 We provide the code used to make API calls to GPT-4 for obtaining labels and rationales for 10,000 sentences sampled from the patent documents. The code contains the instructions as well as the examples supplied to GPT-4 as part of the prompt.
