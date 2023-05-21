@@ -74,7 +74,7 @@ starting_prompt = [
 
 ]
 
-# read a csv file names random_100.csv and convert it to a pandas dataframe
+# read the csv file containing 10k sampled sentences as a pandas dataframe
 df = pd.read_csv('10k_sententnces_to_annotate.csv')
 # convert the column 'sent' to a list
 sent_list = df['sent'].tolist()
