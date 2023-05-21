@@ -1,6 +1,6 @@
 # Code and Data Repository for 'Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents' [[preprint on arXiv]](https://arxiv.org/abs/2305.10383)
 ## by Sergio Pelaez*, Gaurav Verma*, Barbara Ribeiro, Philip Shapira<sup>1</sup>
-### * = Co-First author, <sup>1</sup> Corresponding author: pshapira@manchester.ac.uk
+### * = Co-First authors; <sup>1</sup> Corresponding author: pshapira@manchester.ac.uk
 
 We provide the code used to make API calls to GPT-4 for obtaining labels and rationales for 10,000 sentences sampled from the patent documents. The code contains the instructions as well as the examples supplied to GPT-4 as part of the prompt.
 
