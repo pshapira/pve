@@ -1,4 +1,4 @@
-# Code and Data Repository for 'Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents' [[preprint on arXiv]](https://arxiv.org/abs/2305.10383)
+# Code and Data Repository for 'Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents' [[in Quantitative Science Studies]]([https://arxiv.org/abs/2305.10383](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00285/119275))
 ## by [Sergio Pelaez*](https://www.linkedin.com/in/sergio-pel%C3%A1ez-sierra-148690147/), [Gaurav Verma*](https://gaurav22verma.github.io/), [Barbara Ribeiro](https://www.linkedin.com/in/drbarbararibeiro), [Philip Shapira<sup>1</sup>](https://iac.gatech.edu/people/person/pshapira)
 ### * = Co-First authors; <sup>1</sup> Corresponding author: pshapira@manchester.ac.uk
 
@@ -21,10 +21,16 @@ Pelaez, S., Verma, G., Ribeiro, B., & Shapira, P. (2023). Large-Scale Text Analy
 **Bibtex**
 
 ```
-@article{pelaez2023largescale,
-title={Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents},
-author={Pelaez, Sergio and Verma, Gaurav and Ribeiro, Barbara and Shapira, Philip},
-journal={arXiv preprint 2305.10383},
-year={2023}
+@article{generative_language_models_for_public_values,
+    author = {Pelaez, Sergio and Verma, Gaurav and Ribeiro, Barbara and Shapira, Philip},
+    title = "{Large-scale text analysis using generative language models: A case study in discovering public value expressions in AI patents}",
+    journal = {Quantitative Science Studies},
+    pages = {1-26},
+    year = {2024},
+    month = {02},
+    issn = {2641-3337},
+    doi = {10.1162/qss_a_00285},
+    url = {https://doi.org/10.1162/qss\_a\_00285},
+    eprint = {https://direct.mit.edu/qss/article-pdf/doi/10.1162/qss\_a\_00285/2325312/qss\_a\_00285.pdf},
 }
 ```
