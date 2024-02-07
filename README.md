@@ -1,5 +1,5 @@
 # Code and Data Repository for 'Large-Scale Text Analysis Using Generative Language Models: A Case Study in Discovering Public Value Expressions in AI Patents'  
-## In [Quantitative Science Studies](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00285/119275)
+## In [Quantitative Science Studies (QSS)](https://direct.mit.edu/qss/article/doi/10.1162/qss_a_00285/119275)
 
 ## by [Sergio Pelaez*](https://www.linkedin.com/in/sergio-pel%C3%A1ez-sierra-148690147/), [Gaurav Verma*](https://gaurav22verma.github.io/), [Barbara Ribeiro](https://www.linkedin.com/in/drbarbararibeiro), [Philip Shapira<sup>1</sup>](https://iac.gatech.edu/people/person/pshapira)
 ### * = Co-First authors; <sup>1</sup> Corresponding author: pshapira@manchester.ac.uk
